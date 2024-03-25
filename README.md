@@ -1,4 +1,4 @@
-# RecSys_Spermarket
+# RecSys_Sbermarket
 Задание для стажировки в СберМаркет
 
 # Задание
